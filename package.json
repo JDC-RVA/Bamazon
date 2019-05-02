@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/JDC-RVA/Bamazon/issues"
   },
-  "homepage": "https://github.com/JDC-RVA/Bamazon#readme"
+  "homepage": "https://github.com/JDC-RVA/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
 }
